@@ -1,0 +1,21 @@
+{
+    "name": "Cerberus",
+    "displayName": "Cerberus",
+    "description": "VS Code theme inspired by Mass Effect Cerberus organization.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cerberus",
+                "uiTheme": "vs",
+                "path": "./themes/Cerberus-color-theme.json"
+            }
+        ]
+    }
+}
