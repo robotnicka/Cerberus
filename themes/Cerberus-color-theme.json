@@ -2,10 +2,12 @@
 	"name": "Cerberus",
 	"type": "light",
 	"colors": {
-		"editor.background": "#ecb12fb3",
+		"editor.background": "#ac7500b3",
 		"editor.foreground": "#81f7ff",
 		"window.activeBorder": "#ffe696",
-		"icon.foreground": "#ff0000"
+		"icon.foreground": "#ff0000",
+		"sideBar.background": "#d39000",
+		"activityBar.background": "#eb9d0e"
 	},
 	"tokenColors": [
 		{
@@ -100,7 +102,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#AA3731"
+				"foreground": "#00ffaa"
 			}
 		},
 		{
@@ -112,7 +114,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#7A3E9D"
+				"foreground": "#c664ff"
 			}
 		},
 		{
