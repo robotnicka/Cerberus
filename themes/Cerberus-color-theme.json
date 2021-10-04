@@ -5,9 +5,11 @@
 		"editor.background": "#ac7500b3",
 		"editor.foreground": "#81f7ff",
 		"window.activeBorder": "#ffe696",
-		"icon.foreground": "#ff0000",
+		"icon.foreground": "#770707",
 		"sideBar.background": "#d39000",
-		"activityBar.background": "#eb9d0e"
+		"activityBar.background": "#eb9d0e",
+		"minimap.background": "#925f00",
+		"tab.activeForeground": "#ffc46b"
 	},
 	"tokenColors": [
 		{
